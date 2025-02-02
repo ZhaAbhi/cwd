@@ -1,0 +1,12 @@
+openai
+langchain
+docx2txt
+pypdf
+streamlit~=1.41.1
+chromadb
+tiktoken
+langchain_openai
+dotenv
+langchain-openai~=0.3.3
+langchain-community~=0.3.16
+python-dotenv~=1.0.1
